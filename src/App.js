@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React js12345
+          React js123456
         </a>
       </header>
     </div>
